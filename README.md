@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Eddie</h1>
 <h3 align="center">A passionate software engineer</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=eazapata23&label=Profile%20views&color=0e75b6&style=flat" alt="eazapata23" /> </p>
+
 - 🌱 I’m currently learning **React.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/eazapata23](https://github.com/eazapata23)
