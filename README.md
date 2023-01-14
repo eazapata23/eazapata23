@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/eazapata23](https://github.com/eazapata23)
+- 👨‍💻 All of my projects are available at https://github.com/eazapata23?tab=repositories
 
 - 📫 How to reach me **eddiezapa32@gmail.com**
 
