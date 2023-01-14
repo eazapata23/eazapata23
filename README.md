@@ -1,5 +1,8 @@
+![MasterHead](https://64.media.tumblr.com/7b4391bbfed2af6764fec491eab08b57/3142cd28c78e9e5a-0d/s1280x1920/babb6de81f0f798f188e236702f9f96f598caa8e.gif)
 <h1 align="center">Hi 👋, I'm Eddie</h1>
 <h3 align="center">A passionate software engineer</h3>
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/8ZpbRdXPnd4AAAAM/programming-crazy.gif" />
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eazapata23&label=Profile%20views&color=0e75b6&style=flat" alt="eazapata23" /> </p>
 
