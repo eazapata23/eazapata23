@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **eddiezapa32@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/u/0/my-drive](https://drive.google.com/drive/u/0/my-drive)
+- 📄 Know about my experiences [[https://drive.google.com/drive/u/0/my-drive](https://drive.google.com/file/d/192_F6PRfUI-Gh92fOJTMpr-QLODw6u-F/view)](https://drive.google.com/file/d/192_F6PRfUI-Gh92fOJTMpr-QLODw6u-F/view)
 
 - ⚡ Fun fact **I enjoy Brazilian Jiu jitsu and building pcs**
 
